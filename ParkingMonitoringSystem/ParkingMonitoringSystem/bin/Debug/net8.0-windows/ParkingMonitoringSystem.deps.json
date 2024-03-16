@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParkingMonitoringSystem/1.0.0": {
+        "runtime": {
+          "ParkingMonitoringSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingMonitoringSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

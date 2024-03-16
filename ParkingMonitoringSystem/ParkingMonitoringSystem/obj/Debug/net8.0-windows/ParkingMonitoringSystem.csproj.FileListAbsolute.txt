@@ -1,0 +1,16 @@
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\bin\Debug\net8.0-windows\ParkingMonitoringSystem.exe
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\bin\Debug\net8.0-windows\ParkingMonitoringSystem.deps.json
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\bin\Debug\net8.0-windows\ParkingMonitoringSystem.runtimeconfig.json
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\bin\Debug\net8.0-windows\ParkingMonitoringSystem.dll
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\bin\Debug\net8.0-windows\ParkingMonitoringSystem.pdb
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.Form1.resources
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.csproj.GenerateResource.cache
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.AssemblyInfo.cs
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.dll
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\refint\ParkingMonitoringSystem.dll
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.pdb
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ParkingMonitoringSystem.genruntimeconfig.cache
+C:\Users\james\source\repos\ParkingMonitoringSystem\ParkingMonitoringSystem\obj\Debug\net8.0-windows\ref\ParkingMonitoringSystem.dll
